@@ -53,6 +53,8 @@ crypto API is itself a security design decision.
 
 ## 4. Architecture
 
+![Password manager architecture](./architecture.png)
+
 Four components, in increasing trust order from the user down to disk:
 
 | Component | Responsibility |
