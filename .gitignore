@@ -1,0 +1,5 @@
+*.o
+*.out
+pwman
+vault.bin
+.vscode/
